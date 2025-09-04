@@ -21,6 +21,9 @@ Ferramentas:
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5e888a25-ad31-432d-b655-2a91bce7ecd1" />
 
 
+
+
+
 Obrigado por abrir meu perfil, estou no início do processo para crescer na carreira de programação e vou prevaslescer e evoluir muito nessa jornada.
 
 
