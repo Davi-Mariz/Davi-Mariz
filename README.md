@@ -16,7 +16,7 @@ Ferramentas:
 
 
 
-Obrigado por abrir meu perfil, estou no início de processo para crescer na carreira de programação e vou prevaslescer e evoluir muito
+Obrigado por abrir meu perfil, estou no início do processo para crescer na carreira de programação e vou prevaslescer e evoluir muito nessa jornada.
 
 
           
