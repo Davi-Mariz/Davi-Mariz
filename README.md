@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**Davi-Mariz/Davi-Mariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# Olá, me chamo Davi! 
+## Bem vindo ao meu perfil GitHub 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning html and javascript.
+- 👯 I’m looking to collaborate on my friends and myself :alien:
+- 📫 How to reach me: davi.mariz0202@gmail.com
+
+Ferramentas:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+Obrigado por abrir meu perfil, estou no início de processo para crescer na carreira de programação e vou prevaslescer e evoluir muito
+
+
+          
+          
+          
