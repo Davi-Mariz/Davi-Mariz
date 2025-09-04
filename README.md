@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning html and javascript.
 - 👯 I’m looking to collaborate on my friends and myself :alien:
 - 📫 How to reach me: davi.mariz0202@gmail.com
-
+<a href="https://www.instagram.com/davi_ald2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 Ferramentas:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
