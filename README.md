@@ -17,7 +17,7 @@ Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
 
 `Cursando na Alura`
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/5e888a25-ad31-432d-b655-2a91bce7ecd1" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5e888a25-ad31-432d-b655-2a91bce7ecd1" />
 
 
 Obrigado por abrir meu perfil, estou no início do processo para crescer na carreira de programação e vou prevaslescer e evoluir muito nessa jornada.
